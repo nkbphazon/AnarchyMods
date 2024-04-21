@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0A44D3CB-DA89-4EFD-9DEC-A7A56DAF3449}"
+	ProjectSection(SolutionItems) = preProject
+		ini.h = ini.h
+		ModUtils.h = ModUtils.h
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CustomFpsLimit", "CustomFpsLimit\CustomFpsLimit.vcxproj", "{47B3C3CE-60F1-4759-8B5B-4B7C5D73189B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47B3C3CE-60F1-4759-8B5B-4B7C5D73189B}.Debug|x64.ActiveCfg = Debug|x64
+		{47B3C3CE-60F1-4759-8B5B-4B7C5D73189B}.Debug|x64.Build.0 = Debug|x64
+		{47B3C3CE-60F1-4759-8B5B-4B7C5D73189B}.Debug|x86.ActiveCfg = Debug|Win32
+		{47B3C3CE-60F1-4759-8B5B-4B7C5D73189B}.Debug|x86.Build.0 = Debug|Win32
+		{47B3C3CE-60F1-4759-8B5B-4B7C5D73189B}.Release|x64.ActiveCfg = Release|x64
+		{47B3C3CE-60F1-4759-8B5B-4B7C5D73189B}.Release|x64.Build.0 = Release|x64
+		{47B3C3CE-60F1-4759-8B5B-4B7C5D73189B}.Release|x86.ActiveCfg = Release|Win32
+		{47B3C3CE-60F1-4759-8B5B-4B7C5D73189B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2B4B5AD-7717-4266-A8BB-560355BD5775}
+	EndGlobalSection
+EndGlobal
